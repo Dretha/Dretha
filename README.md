@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Andrei 👋
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/romanjhjkh3/">
@@ -6,6 +6,9 @@
    </a>
    <a href="https://t.me/drethaf">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+   <a href="https://vk.com/dretha">
+       <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:andreyha5500@gmail.com'>andreyha5500@gmail.com</a>
