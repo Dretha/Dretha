@@ -15,7 +15,7 @@
 </p>
 
 He/his
-I love programming in Java, developing mods for minecraft and android applications. I learned to program in java myself by reading articles on the Internet, reading books, taking courses on Udemy and Javarush. I have been programming for 1 year now. My biggest project - Oshiete Mod I have been developing for 5 months, the number of lines of code in it is more than 20000. Now it is in the pre-release stage of development. You can evaluate my skills by following the link I left to my public GitHub profile. I have also developed several small Android apps and dozens of tiny educational projects.
+I love programming in Java, developing mods for minecraft and android applications. I learned to program in java myself by reading articles on the Internet, reading books, taking courses on Udemy and Javarush. I have been programming for 1 year now. My biggest project - Oshiete Mod I have been developing for 5 months, the number of lines of code in it is more than 20000. Now it is in the pre-release stage of development. I have also developed several small Android apps and dozens of tiny educational projects.
 I know not so many technologies and frameworks, but I am always ready to learn everything new. I would like to know what skills are required on your project in order to learn it. I am ready to take any courses that you offer to take.
 
 <!--
